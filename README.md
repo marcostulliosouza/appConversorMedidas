@@ -2,7 +2,7 @@
 
 ![Screenshot_1592977489](https://user-images.githubusercontent.com/31325472/85506794-6a9cc600-b5c7-11ea-8d55-15d1f364f764.png)
 
-Projeto em Flutter
+Projeto realizado com Flutter
 
 ## Sobre
 
